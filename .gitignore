@@ -1,8 +1,9 @@
 # Default ignored files
 /shelf/
-/workspace.xml
 # Datasource local storage ignored files
 /../../../../../../:\fasttrackit\curs-java-4\curs12\curs12-code\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+out
+.idea
